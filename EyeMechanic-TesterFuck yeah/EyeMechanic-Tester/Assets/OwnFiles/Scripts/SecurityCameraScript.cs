@@ -8,6 +8,7 @@ public class SecurityCameraScript : MonoBehaviour {
 	void Start()
 	{
 		player = GameObject.Find ("MainCamera");
+		transform.parent = null;
 	}
 
 	void Update () {

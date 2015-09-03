@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 3880f5291ee66e04daa140b0411dddee
+timeCreated: 1441288647
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pincodemachinecloseupButtons_0
+    21300002: pincodemachinecloseupButtons_1
+    21300004: pincodemachinecloseupButtons_2
+    21300006: pincodemachinecloseupButtons_3
+    21300008: pincodemachinecloseupButtons_4
+    21300010: pincodemachinecloseupButtons_5
+    21300012: pincodemachinecloseupButtons_6
+    21300014: pincodemachinecloseupButtons_7
+    21300016: pincodemachinecloseupButtons_8
+    21300018: pincodemachinecloseupButtons_9
+    21300020: pincodemachinecloseupButtons_10
+    21300022: pincodemachinecloseupButtons_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pincodemachinecloseupButtons_0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 621
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincodemachinecloseupButtons_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 617
+        width: 115
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincodemachinecloseupButtons_2
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 617
+        width: 117
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincodemachinecloseupButtons_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 493
+        width: 117
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincodemachinecloseupButtons_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 493
+        width: 117
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincodemachinecloseupButtons_5
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 493
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincodemachinecloseupButtons_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 370
+        width: 115
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincodemachinecloseupButtons_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 370
+        width: 116
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincodemachinecloseupButtons_8
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 370
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincodemachinecloseupButtons_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 244
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincodemachinecloseupButtons_10
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 244
+        width: 113
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pincodemachinecloseupButtons_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 244
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
