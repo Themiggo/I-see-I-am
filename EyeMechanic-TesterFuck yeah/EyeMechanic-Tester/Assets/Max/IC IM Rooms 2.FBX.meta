@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: f36632ee6b327ee489479b417171a7b4
+timeCreated: 1438329865
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BathroomFloor
+    100002: BathroomRoof
+    100004: Corridor corner001
+    100006: Corridor corner002
+    100008: Corridor floor
+    100010: Corridor floor001
+    100012: Corridor floor002
+    100014: Corridor floor003
+    100016: Corridor floor004
+    100018: Corridor floor006
+    100020: Corridor roof001
+    100022: Corridor roof003
+    100024: Corridor Roof007
+    100026: Corridor roof007
+    100028: Corridor Roof008
+    100030: Corridor roof009
+    100032: Corridor wall007
+    100034: Corridor wall008
+    100036: Corridor wall009
+    100038: Corridor wall011
+    100040: Corridor wall012
+    100042: Corridor wall013
+    100044: Corridor wall014
+    100046: Corridor wall015
+    100048: Corridor wall016
+    100050: Corridor wall017
+    100052: Corridor walls
+    100054: Corridor walls001
+    100056: Corridor walls002
+    100058: Corridor walls003
+    100060: Corridor walls004
+    100062: Corridor walls005
+    100064: Corridor walls008
+    100066: Corridor walls009
+    100068: CorridorWall001
+    100070: FilmProjectorRoom001
+    100072: FilmProjectorRoom002
+    100074: FilmProjectorRoom003
+    100076: //RootNode
+    100078: Lobby back wall
+    100080: Lobby floor
+    100082: Lobby Pillar
+    100084: Lobby Pillar001
+    100086: LobbyEntranceWall
+    100088: LobbyRoof
+    100090: LobbyWall001
+    100092: LobbyWall002
+    100094: Mannequin
+    100096: MiddleWall003
+    100098: MiddleWall004
+    100100: MiddleWall005
+    100102: MiddleWall006
+    100104: MiddleWall007
+    100106: MiddleWall008
+    100108: MovieTheaterEntranceWall001
+    100110: MovieTheaterEntranceWall002
+    100112: MovieTheaterEntranceWall003
+    100114: MovieTheaterFloor001
+    100116: MovieTheaterFloor002
+    100118: MovieTheaterFloor002 1
+    100120: MovieTheaterFloor003
+    100122: MovieTheaterFLoor004
+    100124: MovieTheaterRoof
+    100126: MovieTheaterRoof 1
+    100128: MovieTheaterRoof001
+    100130: MovieTheaterRoof002
+    100132: MovieTheaterRoof4004
+    100134: MovieTheaterScreenWall001
+    100136: MovieTheaterScreenWall002
+    100138: MovieTheaterScreenWall003
+    100140: MovieTheaterSideWalls001
+    100142: MovieTheaterSideWalls002
+    100144: MovieTheaterSideWalls007
+    100146: MovieTheaterSideWalls008
+    100148: MovieTheaterWall003
+    100150: MovieTheaterWall004
+    100152: MovieTheaterWall005
+    100154: MovieTheaterWall005 1
+    100156: MovieTheaterWall006
+    100158: MovieTheaterWall006 1
+    100160: MovieTheaterWall007
+    100162: MovieTheaterWall007 1
+    100164: MovieTheaterWall008
+    100166: MovieTheaterWall008 1
+    100168: MovieTheaterWall009
+    100170: MovieTheaterWall010
+    100172: MovieTheaterWall011
+    100174: MovieTheaterWall012
+    100176: Plane001
+    100178: Plane002
+    100180: Plane003
+    100182: ProjectorRoom003
+    100184: ProjectorRoom004
+    100186: RoofFixWall1
+    100188: RoofFixWall2
+    100190: RoundRoof
+    100192: shop shelf
+    100194: shop shelf001
+    100196: shop shelf002
+    100198: shop shelf003
+    100200: shop shelf004
+    100202: Sofa1
+    100204: Sofa2
+    100206: Sofa3
+    100208: Staff room floor
+    100210: Staff room floor001
+    100212: Staff room walls
+    100214: Stage wall
+    100216: StairRailing
+    100218: StairRailings
+    100220: StairsAndSeats001
+    100222: StairsAndSeats002
+    100224: StairsAndSeats003
+    100226: StairWall001
+    100228: StairWall002
+    100230: StairWall003
+    100232: StraightStair002
+    100234: StraightStair005
+    100236: StraightStair006
+    100238: StraightStair011
+    100240: StraightStair012
+    100242: StraightStair013
+    100244: StraightStair014
+    100246: TheaterBackFloor
+    100248: TheaterBackInnerWall1
+    100250: TheaterBackInnerWall2
+    100252: TheaterBackInnerWall3
+    100254: TheaterBackInnerWall4
+    100256: TheaterBackRoof
+    100258: TheaterBackWall1
+    100260: TheaterBackWall2
+    100262: TheaterBackWall3
+    100264: TheaterBackWall4
+    100266: TheaterBackWall5
+    100268: Theatre floor
+    100270: Theatre seats007
+    100272: Theatre seats016
+    100274: Theatre Stage
+    100276: Theatre walls
+    100278: TheatreRoof
+    100280: Tube001
+    100282: Tunnel corner001
+    100284: Tunnel corner003
+    100286: Tunnel corner004
+    100288: Tunnel corner005
+    100290: Tunnel corner006
+    100292: Tunnel corner007
+    100294: Tunnel corner008
+    100296: Tunnel corner009
+    100298: Tunnel corner010
+    100300: Tunnel straight
+    100302: Tunnel straight002
+    100304: Tunnel straight004
+    100306: Tunnel straight005
+    100308: Tunnel straight006
+    100310: Tunnel straight007
+    100312: Tunnel straight008
+    100314: Tunnel straight009
+    100316: Tunnel straight010
+    100318: Tunnel straight011
+    100320: Tunnel straight012
+    100322: Tunnel straight013
+    100324: Tunnel straight014
+    100326: Tunnel straight015
+    100328: Tunnel straight016
+    100330: Tunnel straight017
+    100332: Tunnel three way001
+    100334: Tunnel three way002
+    100336: Tunnel three way003
+    100338: Tunnel three way004
+    100340: Tunnel x junction
+    100342: Tunnel x junction003
+    100344: TunnelRoom004
+    100346: TunnelRoom005
+    100348: TunnelRoom1
+    100350: TunnelRoom2
+    100352: TunnelRoom3
+    100354: Upper back wall
+    100356: Upper back wall001
+    100358: Upper back wall002
+    100360: Upper back wall003
+    100362: Upper back wall004
+    100364: Upper back wall005
+    100366: Upper back wall006
+    100368: Upper back wall007
+    100370: Upper back wall008
+    100372: Upper back wall009
+    100374: Upper back wall010
+    100376: Upper floor
+    100378: Upper snack counter
+    100380: UpperLobbyWall001
+    100382: UpperRailing
+    100384: UpperRailing2
+    100386: UpperRoof1
+    100388: UpperRoof2
+    400000: BathroomFloor
+    400002: BathroomRoof
+    400004: Corridor corner001
+    400006: Corridor corner002
+    400008: Corridor floor
+    400010: Corridor floor001
+    400012: Corridor floor002
+    400014: Corridor floor003
+    400016: Corridor floor004
+    400018: Corridor floor006
+    400020: Corridor roof001
+    400022: Corridor roof003
+    400024: Corridor Roof007
+    400026: Corridor roof007
+    400028: Corridor Roof008
+    400030: Corridor roof009
+    400032: Corridor wall007
+    400034: Corridor wall008
+    400036: Corridor wall009
+    400038: Corridor wall011
+    400040: Corridor wall012
+    400042: Corridor wall013
+    400044: Corridor wall014
+    400046: Corridor wall015
+    400048: Corridor wall016
+    400050: Corridor wall017
+    400052: Corridor walls
+    400054: Corridor walls001
+    400056: Corridor walls002
+    400058: Corridor walls003
+    400060: Corridor walls004
+    400062: Corridor walls005
+    400064: Corridor walls008
+    400066: Corridor walls009
+    400068: CorridorWall001
+    400070: FilmProjectorRoom001
+    400072: FilmProjectorRoom002
+    400074: FilmProjectorRoom003
+    400076: //RootNode
+    400078: Lobby back wall
+    400080: Lobby floor
+    400082: Lobby Pillar
+    400084: Lobby Pillar001
+    400086: LobbyEntranceWall
+    400088: LobbyRoof
+    400090: LobbyWall001
+    400092: LobbyWall002
+    400094: Mannequin
+    400096: MiddleWall003
+    400098: MiddleWall004
+    400100: MiddleWall005
+    400102: MiddleWall006
+    400104: MiddleWall007
+    400106: MiddleWall008
+    400108: MovieTheaterEntranceWall001
+    400110: MovieTheaterEntranceWall002
+    400112: MovieTheaterEntranceWall003
+    400114: MovieTheaterFloor001
+    400116: MovieTheaterFloor002
+    400118: MovieTheaterFloor002 1
+    400120: MovieTheaterFloor003
+    400122: MovieTheaterFLoor004
+    400124: MovieTheaterRoof
+    400126: MovieTheaterRoof 1
+    400128: MovieTheaterRoof001
+    400130: MovieTheaterRoof002
+    400132: MovieTheaterRoof4004
+    400134: MovieTheaterScreenWall001
+    400136: MovieTheaterScreenWall002
+    400138: MovieTheaterScreenWall003
+    400140: MovieTheaterSideWalls001
+    400142: MovieTheaterSideWalls002
+    400144: MovieTheaterSideWalls007
+    400146: MovieTheaterSideWalls008
+    400148: MovieTheaterWall003
+    400150: MovieTheaterWall004
+    400152: MovieTheaterWall005
+    400154: MovieTheaterWall005 1
+    400156: MovieTheaterWall006
+    400158: MovieTheaterWall006 1
+    400160: MovieTheaterWall007
+    400162: MovieTheaterWall007 1
+    400164: MovieTheaterWall008
+    400166: MovieTheaterWall008 1
+    400168: MovieTheaterWall009
+    400170: MovieTheaterWall010
+    400172: MovieTheaterWall011
+    400174: MovieTheaterWall012
+    400176: Plane001
+    400178: Plane002
+    400180: Plane003
+    400182: ProjectorRoom003
+    400184: ProjectorRoom004
+    400186: RoofFixWall1
+    400188: RoofFixWall2
+    400190: RoundRoof
+    400192: shop shelf
+    400194: shop shelf001
+    400196: shop shelf002
+    400198: shop shelf003
+    400200: shop shelf004
+    400202: Sofa1
+    400204: Sofa2
+    400206: Sofa3
+    400208: Staff room floor
+    400210: Staff room floor001
+    400212: Staff room walls
+    400214: Stage wall
+    400216: StairRailing
+    400218: StairRailings
+    400220: StairsAndSeats001
+    400222: StairsAndSeats002
+    400224: StairsAndSeats003
+    400226: StairWall001
+    400228: StairWall002
+    400230: StairWall003
+    400232: StraightStair002
+    400234: StraightStair005
+    400236: StraightStair006
+    400238: StraightStair011
+    400240: StraightStair012
+    400242: StraightStair013
+    400244: StraightStair014
+    400246: TheaterBackFloor
+    400248: TheaterBackInnerWall1
+    400250: TheaterBackInnerWall2
+    400252: TheaterBackInnerWall3
+    400254: TheaterBackInnerWall4
+    400256: TheaterBackRoof
+    400258: TheaterBackWall1
+    400260: TheaterBackWall2
+    400262: TheaterBackWall3
+    400264: TheaterBackWall4
+    400266: TheaterBackWall5
+    400268: Theatre floor
+    400270: Theatre seats007
+    400272: Theatre seats016
+    400274: Theatre Stage
+    400276: Theatre walls
+    400278: TheatreRoof
+    400280: Tube001
+    400282: Tunnel corner001
+    400284: Tunnel corner003
+    400286: Tunnel corner004
+    400288: Tunnel corner005
+    400290: Tunnel corner006
+    400292: Tunnel corner007
+    400294: Tunnel corner008
+    400296: Tunnel corner009
+    400298: Tunnel corner010
+    400300: Tunnel straight
+    400302: Tunnel straight002
+    400304: Tunnel straight004
+    400306: Tunnel straight005
+    400308: Tunnel straight006
+    400310: Tunnel straight007
+    400312: Tunnel straight008
+    400314: Tunnel straight009
+    400316: Tunnel straight010
+    400318: Tunnel straight011
+    400320: Tunnel straight012
+    400322: Tunnel straight013
+    400324: Tunnel straight014
+    400326: Tunnel straight015
+    400328: Tunnel straight016
+    400330: Tunnel straight017
+    400332: Tunnel three way001
+    400334: Tunnel three way002
+    400336: Tunnel three way003
+    400338: Tunnel three way004
+    400340: Tunnel x junction
+    400342: Tunnel x junction003
+    400344: TunnelRoom004
+    400346: TunnelRoom005
+    400348: TunnelRoom1
+    400350: TunnelRoom2
+    400352: TunnelRoom3
+    400354: Upper back wall
+    400356: Upper back wall001
+    400358: Upper back wall002
+    400360: Upper back wall003
+    400362: Upper back wall004
+    400364: Upper back wall005
+    400366: Upper back wall006
+    400368: Upper back wall007
+    400370: Upper back wall008
+    400372: Upper back wall009
+    400374: Upper back wall010
+    400376: Upper floor
+    400378: Upper snack counter
+    400380: UpperLobbyWall001
+    400382: UpperRailing
+    400384: UpperRailing2
+    400386: UpperRoof1
+    400388: UpperRoof2
+    2300000: BathroomFloor
+    2300002: BathroomRoof
+    2300004: Corridor corner001
+    2300006: Corridor corner002
+    2300008: Corridor floor
+    2300010: Corridor floor001
+    2300012: Corridor floor002
+    2300014: Corridor floor003
+    2300016: Corridor floor004
+    2300018: Corridor floor006
+    2300020: Corridor roof001
+    2300022: Corridor roof003
+    2300024: Corridor Roof007
+    2300026: Corridor roof007
+    2300028: Corridor Roof008
+    2300030: Corridor roof009
+    2300032: Corridor wall007
+    2300034: Corridor wall008
+    2300036: Corridor wall009
+    2300038: Corridor wall011
+    2300040: Corridor wall012
+    2300042: Corridor wall013
+    2300044: Corridor wall014
+    2300046: Corridor wall015
+    2300048: Corridor wall016
+    2300050: Corridor wall017
+    2300052: Corridor walls
+    2300054: Corridor walls001
+    2300056: Corridor walls002
+    2300058: Corridor walls003
+    2300060: Corridor walls004
+    2300062: Corridor walls005
+    2300064: Corridor walls008
+    2300066: Corridor walls009
+    2300068: CorridorWall001
+    2300070: FilmProjectorRoom001
+    2300072: FilmProjectorRoom002
+    2300074: FilmProjectorRoom003
+    2300076: Lobby back wall
+    2300078: Lobby floor
+    2300080: Lobby Pillar
+    2300082: Lobby Pillar001
+    2300084: LobbyEntranceWall
+    2300086: LobbyRoof
+    2300088: LobbyWall001
+    2300090: LobbyWall002
+    2300092: Mannequin
+    2300094: MiddleWall003
+    2300096: MiddleWall004
+    2300098: MiddleWall005
+    2300100: MiddleWall006
+    2300102: MiddleWall007
+    2300104: MiddleWall008
+    2300106: MovieTheaterEntranceWall001
+    2300108: MovieTheaterEntranceWall002
+    2300110: MovieTheaterEntranceWall003
+    2300112: MovieTheaterFloor001
+    2300114: MovieTheaterFloor002
+    2300116: MovieTheaterFloor002 1
+    2300118: MovieTheaterFloor003
+    2300120: MovieTheaterFLoor004
+    2300122: MovieTheaterRoof
+    2300124: MovieTheaterRoof 1
+    2300126: MovieTheaterRoof001
+    2300128: MovieTheaterRoof002
+    2300130: MovieTheaterRoof4004
+    2300132: MovieTheaterScreenWall001
+    2300134: MovieTheaterScreenWall002
+    2300136: MovieTheaterScreenWall003
+    2300138: MovieTheaterSideWalls001
+    2300140: MovieTheaterSideWalls002
+    2300142: MovieTheaterSideWalls007
+    2300144: MovieTheaterSideWalls008
+    2300146: MovieTheaterWall003
+    2300148: MovieTheaterWall004
+    2300150: MovieTheaterWall005
+    2300152: MovieTheaterWall005 1
+    2300154: MovieTheaterWall006
+    2300156: MovieTheaterWall006 1
+    2300158: MovieTheaterWall007
+    2300160: MovieTheaterWall007 1
+    2300162: MovieTheaterWall008
+    2300164: MovieTheaterWall008 1
+    2300166: MovieTheaterWall009
+    2300168: MovieTheaterWall010
+    2300170: MovieTheaterWall011
+    2300172: MovieTheaterWall012
+    2300174: Plane001
+    2300176: Plane002
+    2300178: Plane003
+    2300180: ProjectorRoom003
+    2300182: ProjectorRoom004
+    2300184: RoofFixWall1
+    2300186: RoofFixWall2
+    2300188: RoundRoof
+    2300190: shop shelf
+    2300192: shop shelf001
+    2300194: shop shelf002
+    2300196: shop shelf003
+    2300198: shop shelf004
+    2300200: Sofa1
+    2300202: Sofa2
+    2300204: Sofa3
+    2300206: Staff room floor
+    2300208: Staff room floor001
+    2300210: Staff room walls
+    2300212: Stage wall
+    2300214: StairRailing
+    2300216: StairRailings
+    2300218: StairsAndSeats001
+    2300220: StairsAndSeats002
+    2300222: StairsAndSeats003
+    2300224: StairWall001
+    2300226: StairWall002
+    2300228: StairWall003
+    2300230: StraightStair005
+    2300232: StraightStair006
+    2300234: StraightStair011
+    2300236: StraightStair012
+    2300238: StraightStair013
+    2300240: StraightStair014
+    2300242: TheaterBackFloor
+    2300244: TheaterBackInnerWall1
+    2300246: TheaterBackInnerWall2
+    2300248: TheaterBackInnerWall3
+    2300250: TheaterBackInnerWall4
+    2300252: TheaterBackRoof
+    2300254: TheaterBackWall1
+    2300256: TheaterBackWall2
+    2300258: TheaterBackWall3
+    2300260: TheaterBackWall4
+    2300262: TheaterBackWall5
+    2300264: Theatre floor
+    2300266: Theatre seats007
+    2300268: Theatre seats016
+    2300270: Theatre Stage
+    2300272: Theatre walls
+    2300274: TheatreRoof
+    2300276: Tube001
+    2300278: Tunnel corner001
+    2300280: Tunnel corner003
+    2300282: Tunnel corner004
+    2300284: Tunnel corner005
+    2300286: Tunnel corner006
+    2300288: Tunnel corner007
+    2300290: Tunnel corner008
+    2300292: Tunnel corner009
+    2300294: Tunnel corner010
+    2300296: Tunnel straight
+    2300298: Tunnel straight002
+    2300300: Tunnel straight004
+    2300302: Tunnel straight005
+    2300304: Tunnel straight006
+    2300306: Tunnel straight007
+    2300308: Tunnel straight008
+    2300310: Tunnel straight009
+    2300312: Tunnel straight010
+    2300314: Tunnel straight011
+    2300316: Tunnel straight012
+    2300318: Tunnel straight013
+    2300320: Tunnel straight014
+    2300322: Tunnel straight015
+    2300324: Tunnel straight016
+    2300326: Tunnel straight017
+    2300328: Tunnel three way001
+    2300330: Tunnel three way002
+    2300332: Tunnel three way003
+    2300334: Tunnel three way004
+    2300336: Tunnel x junction
+    2300338: Tunnel x junction003
+    2300340: TunnelRoom004
+    2300342: TunnelRoom005
+    2300344: TunnelRoom1
+    2300346: TunnelRoom2
+    2300348: TunnelRoom3
+    2300350: Upper back wall
+    2300352: Upper back wall001
+    2300354: Upper back wall002
+    2300356: Upper back wall003
+    2300358: Upper back wall004
+    2300360: Upper back wall005
+    2300362: Upper back wall006
+    2300364: Upper back wall007
+    2300366: Upper back wall008
+    2300368: Upper back wall009
+    2300370: Upper back wall010
+    2300372: Upper floor
+    2300374: Upper snack counter
+    2300376: UpperLobbyWall001
+    2300378: UpperRailing
+    2300380: UpperRailing2
+    2300382: UpperRoof1
+    2300384: UpperRoof2
+    3300000: BathroomFloor
+    3300002: BathroomRoof
+    3300004: Corridor corner001
+    3300006: Corridor corner002
+    3300008: Corridor floor
+    3300010: Corridor floor001
+    3300012: Corridor floor002
+    3300014: Corridor floor003
+    3300016: Corridor floor004
+    3300018: Corridor floor006
+    3300020: Corridor roof001
+    3300022: Corridor roof003
+    3300024: Corridor Roof007
+    3300026: Corridor roof007
+    3300028: Corridor Roof008
+    3300030: Corridor roof009
+    3300032: Corridor wall007
+    3300034: Corridor wall008
+    3300036: Corridor wall009
+    3300038: Corridor wall011
+    3300040: Corridor wall012
+    3300042: Corridor wall013
+    3300044: Corridor wall014
+    3300046: Corridor wall015
+    3300048: Corridor wall016
+    3300050: Corridor wall017
+    3300052: Corridor walls
+    3300054: Corridor walls001
+    3300056: Corridor walls002
+    3300058: Corridor walls003
+    3300060: Corridor walls004
+    3300062: Corridor walls005
+    3300064: Corridor walls008
+    3300066: Corridor walls009
+    3300068: CorridorWall001
+    3300070: FilmProjectorRoom001
+    3300072: FilmProjectorRoom002
+    3300074: FilmProjectorRoom003
+    3300076: Lobby back wall
+    3300078: Lobby floor
+    3300080: Lobby Pillar
+    3300082: Lobby Pillar001
+    3300084: LobbyEntranceWall
+    3300086: LobbyRoof
+    3300088: LobbyWall001
+    3300090: LobbyWall002
+    3300092: Mannequin
+    3300094: MiddleWall003
+    3300096: MiddleWall004
+    3300098: MiddleWall005
+    3300100: MiddleWall006
+    3300102: MiddleWall007
+    3300104: MiddleWall008
+    3300106: MovieTheaterEntranceWall001
+    3300108: MovieTheaterEntranceWall002
+    3300110: MovieTheaterEntranceWall003
+    3300112: MovieTheaterFloor001
+    3300114: MovieTheaterFloor002
+    3300116: MovieTheaterFloor002 1
+    3300118: MovieTheaterFloor003
+    3300120: MovieTheaterFLoor004
+    3300122: MovieTheaterRoof
+    3300124: MovieTheaterRoof 1
+    3300126: MovieTheaterRoof001
+    3300128: MovieTheaterRoof002
+    3300130: MovieTheaterRoof4004
+    3300132: MovieTheaterScreenWall001
+    3300134: MovieTheaterScreenWall002
+    3300136: MovieTheaterScreenWall003
+    3300138: MovieTheaterSideWalls001
+    3300140: MovieTheaterSideWalls002
+    3300142: MovieTheaterSideWalls007
+    3300144: MovieTheaterSideWalls008
+    3300146: MovieTheaterWall003
+    3300148: MovieTheaterWall004
+    3300150: MovieTheaterWall005
+    3300152: MovieTheaterWall005 1
+    3300154: MovieTheaterWall006
+    3300156: MovieTheaterWall006 1
+    3300158: MovieTheaterWall007
+    3300160: MovieTheaterWall007 1
+    3300162: MovieTheaterWall008
+    3300164: MovieTheaterWall008 1
+    3300166: MovieTheaterWall009
+    3300168: MovieTheaterWall010
+    3300170: MovieTheaterWall011
+    3300172: MovieTheaterWall012
+    3300174: Plane001
+    3300176: Plane002
+    3300178: Plane003
+    3300180: ProjectorRoom003
+    3300182: ProjectorRoom004
+    3300184: RoofFixWall1
+    3300186: RoofFixWall2
+    3300188: RoundRoof
+    3300190: shop shelf
+    3300192: shop shelf001
+    3300194: shop shelf002
+    3300196: shop shelf003
+    3300198: shop shelf004
+    3300200: Sofa1
+    3300202: Sofa2
+    3300204: Sofa3
+    3300206: Staff room floor
+    3300208: Staff room floor001
+    3300210: Staff room walls
+    3300212: Stage wall
+    3300214: StairRailing
+    3300216: StairRailings
+    3300218: StairsAndSeats001
+    3300220: StairsAndSeats002
+    3300222: StairsAndSeats003
+    3300224: StairWall001
+    3300226: StairWall002
+    3300228: StairWall003
+    3300230: StraightStair005
+    3300232: StraightStair006
+    3300234: StraightStair011
+    3300236: StraightStair012
+    3300238: StraightStair013
+    3300240: StraightStair014
+    3300242: TheaterBackFloor
+    3300244: TheaterBackInnerWall1
+    3300246: TheaterBackInnerWall2
+    3300248: TheaterBackInnerWall3
+    3300250: TheaterBackInnerWall4
+    3300252: TheaterBackRoof
+    3300254: TheaterBackWall1
+    3300256: TheaterBackWall2
+    3300258: TheaterBackWall3
+    3300260: TheaterBackWall4
+    3300262: TheaterBackWall5
+    3300264: Theatre floor
+    3300266: Theatre seats007
+    3300268: Theatre seats016
+    3300270: Theatre Stage
+    3300272: Theatre walls
+    3300274: TheatreRoof
+    3300276: Tube001
+    3300278: Tunnel corner001
+    3300280: Tunnel corner003
+    3300282: Tunnel corner004
+    3300284: Tunnel corner005
+    3300286: Tunnel corner006
+    3300288: Tunnel corner007
+    3300290: Tunnel corner008
+    3300292: Tunnel corner009
+    3300294: Tunnel corner010
+    3300296: Tunnel straight
+    3300298: Tunnel straight002
+    3300300: Tunnel straight004
+    3300302: Tunnel straight005
+    3300304: Tunnel straight006
+    3300306: Tunnel straight007
+    3300308: Tunnel straight008
+    3300310: Tunnel straight009
+    3300312: Tunnel straight010
+    3300314: Tunnel straight011
+    3300316: Tunnel straight012
+    3300318: Tunnel straight013
+    3300320: Tunnel straight014
+    3300322: Tunnel straight015
+    3300324: Tunnel straight016
+    3300326: Tunnel straight017
+    3300328: Tunnel three way001
+    3300330: Tunnel three way002
+    3300332: Tunnel three way003
+    3300334: Tunnel three way004
+    3300336: Tunnel x junction
+    3300338: Tunnel x junction003
+    3300340: TunnelRoom004
+    3300342: TunnelRoom005
+    3300344: TunnelRoom1
+    3300346: TunnelRoom2
+    3300348: TunnelRoom3
+    3300350: Upper back wall
+    3300352: Upper back wall001
+    3300354: Upper back wall002
+    3300356: Upper back wall003
+    3300358: Upper back wall004
+    3300360: Upper back wall005
+    3300362: Upper back wall006
+    3300364: Upper back wall007
+    3300366: Upper back wall008
+    3300368: Upper back wall009
+    3300370: Upper back wall010
+    3300372: Upper floor
+    3300374: Upper snack counter
+    3300376: UpperLobbyWall001
+    3300378: UpperRailing
+    3300380: UpperRailing2
+    3300382: UpperRoof1
+    3300384: UpperRoof2
+    4300000: Corridor walls
+    4300002: Corridor floor
+    4300004: Lobby floor
+    4300006: shop shelf
+    4300008: Sofa1
+    4300010: Sofa2
+    4300012: Sofa3
+    4300014: Lobby Pillar
+    4300016: Staff room floor
+    4300018: Staff room walls
+    4300020: Corridor floor001
+    4300022: Corridor walls001
+    4300024: Corridor floor002
+    4300026: Corridor walls002
+    4300028: Corridor corner002
+    4300030: Corridor floor003
+    4300032: Corridor walls003
+    4300034: Corridor corner001
+    4300036: Corridor wall011
+    4300038: Lobby back wall
+    4300040: Upper floor
+    4300042: Upper snack counter
+    4300044: Upper back wall
+    4300046: shop shelf001
+    4300048: shop shelf002
+    4300050: shop shelf003
+    4300052: shop shelf004
+    4300054: Theatre floor
+    4300056: Theatre Stage
+    4300058: Theatre walls
+    4300060: Theatre seats007
+    4300062: Theatre seats016
+    4300064: Stage wall
+    4300066: Corridor floor004
+    4300068: Corridor walls004
+    4300070: Corridor walls005
+    4300072: Corridor wall009
+    4300074: Corridor wall008
+    4300076: Corridor wall007
+    4300078: TheaterBackFloor
+    4300080: TheaterBackWall1
+    4300082: TheaterBackWall2
+    4300084: TheaterBackWall3
+    4300086: TheaterBackWall4
+    4300088: TheaterBackWall5
+    4300090: TheaterBackInnerWall1
+    4300092: TheaterBackInnerWall2
+    4300094: TheaterBackInnerWall3
+    4300096: TheaterBackInnerWall4
+    4300098: Corridor wall012
+    4300100: Corridor wall013
+    4300102: Tunnel straight
+    4300104: Tunnel straight002
+    4300106: Tunnel x junction
+    4300108: Tunnel three way001
+    4300110: BathroomFloor
+    4300112: Upper back wall001
+    4300114: Upper back wall002
+    4300116: Upper back wall003
+    4300118: Upper back wall004
+    4300120: Upper back wall005
+    4300122: Upper back wall006
+    4300124: Upper back wall007
+    4300126: Upper back wall008
+    4300128: Tunnel corner001
+    4300130: Tunnel straight004
+    4300132: Tunnel straight005
+    4300134: Tunnel straight006
+    4300136: Tunnel straight007
+    4300138: Tunnel straight008
+    4300140: Tunnel x junction003
+    4300142: TunnelRoom1
+    4300144: Tunnel corner003
+    4300146: Tunnel three way002
+    4300148: Tunnel three way003
+    4300150: Tunnel corner004
+    4300152: Tunnel straight009
+    4300154: Tunnel straight010
+    4300156: Tunnel straight011
+    4300158: Tunnel straight012
+    4300160: Tunnel corner005
+    4300162: Tunnel three way004
+    4300164: Tunnel straight013
+    4300166: TunnelRoom2
+    4300168: Tunnel straight014
+    4300170: Tunnel corner006
+    4300172: Tunnel straight015
+    4300174: Tunnel corner007
+    4300176: Tunnel straight016
+    4300178: Tunnel corner008
+    4300180: Tunnel corner009
+    4300182: Tunnel straight017
+    4300184: TunnelRoom3
+    4300186: Tunnel corner010
+    4300188: RoundRoof
+    4300190: UpperRailing
+    4300192: UpperRailing2
+    4300194: Corridor roof007
+    4300196: Corridor roof001
+    4300198: Corridor roof009
+    4300200: Corridor roof003
+    4300202: Tube001
+    4300204: Mannequin
+    4300206: Upper back wall009
+    4300208: Upper back wall010
+    4300210: Plane001
+    4300212: Plane002
+    4300214: Plane003
+    4300216: LobbyEntranceWall
+    4300218: StairRailings
+    4300220: StraightStair005
+    4300222: StraightStair006
+    4300224: FilmProjectorRoom001
+    4300226: StairsAndSeats001
+    4300228: MovieTheaterWall003
+    4300230: MiddleWall003
+    4300232: MovieTheaterScreenWall001
+    4300234: MovieTheaterEntranceWall001
+    4300236: MovieTheaterWall004
+    4300238: MovieTheaterFloor001
+    4300240: MiddleWall004
+    4300242: StraightStair011
+    4300244: StraightStair012
+    4300246: StairRailing
+    4300248: MovieTheaterEntranceWall002
+    4300250: FilmProjectorRoom002
+    4300252: StairsAndSeats002
+    4300254: MiddleWall005
+    4300256: MovieTheaterWall005
+    4300258: MovieTheaterFloor002
+    4300260: MovieTheaterScreenWall002
+    4300262: MovieTheaterWall006
+    4300264: MiddleWall006
+    4300266: MovieTheaterWall012
+    4300268: MovieTheaterSideWalls001
+    4300270: StraightStair013
+    4300272: MovieTheaterWall005
+    4300274: MovieTheaterSideWalls002
+    4300276: MovieTheaterWall006
+    4300278: ProjectorRoom003
+    4300280: MovieTheaterFloor002
+    4300282: MovieTheaterWall007
+    4300284: MovieTheaterFLoor004
+    4300286: ProjectorRoom004
+    4300288: MovieTheaterWall008
+    4300290: MovieTheaterSideWalls007
+    4300292: StraightStair014
+    4300294: MovieTheaterWall009
+    4300296: MovieTheaterSideWalls008
+    4300298: MovieTheaterWall010
+    4300300: MovieTheaterWall011
+    4300302: CorridorWall001
+    4300304: Corridor walls008
+    4300306: Corridor walls009
+    4300308: MovieTheaterEntranceWall003
+    4300310: FilmProjectorRoom003
+    4300312: StairsAndSeats003
+    4300314: MovieTheaterFloor003
+    4300316: MiddleWall007
+    4300318: MiddleWall008
+    4300320: MovieTheaterWall007
+    4300322: MovieTheaterScreenWall003
+    4300324: MovieTheaterWall008
+    4300326: Corridor wall014
+    4300328: UpperLobbyWall001
+    4300330: Corridor floor006
+    4300332: Corridor Roof007
+    4300334: Corridor Roof008
+    4300336: Corridor wall015
+    4300338: Corridor wall016
+    4300340: LobbyWall001
+    4300342: LobbyWall002
+    4300344: TunnelRoom004
+    4300346: TunnelRoom005
+    4300348: StairWall001
+    4300350: StairWall002
+    4300352: StairWall003
+    4300354: LobbyRoof
+    4300356: UpperRoof1
+    4300358: Lobby Pillar001
+    4300360: MovieTheaterRoof001
+    4300362: MovieTheaterRoof002
+    4300364: MovieTheaterRoof
+    4300366: MovieTheaterRoof
+    4300368: MovieTheaterRoof4004
+    4300370: TheatreRoof
+    4300372: TheaterBackRoof
+    4300374: BathroomRoof
+    4300376: UpperRoof2
+    4300378: RoofFixWall1
+    4300380: Staff room floor001
+    4300382: RoofFixWall2
+    4300384: Corridor wall017
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

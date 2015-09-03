@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: 8c027e33cdeaeec4ea420528348720bf
+timeCreated: 1441092539
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone002
+    100002: Bone003
+    100004: Bone006
+    100006: Bone007
+    100008: Bone008
+    100010: Bone009
+    100012: Bone011
+    100014: Bone023
+    100016: Bone025
+    100018: Bone026
+    100020: Bone034
+    100022: Bone035
+    100024: Bone036
+    100026: Bone037
+    100028: Bone038
+    100030: Bone039
+    100032: Bone040
+    100034: Bone041
+    100036: Bone042
+    100038: Bone043
+    100040: Bone044
+    100042: Bone045
+    100044: Bone046
+    100046: Bone047
+    100048: Bone048
+    100050: Bone049
+    100052: Bone051
+    100054: Bone052
+    100056: Bone053
+    100058: Bone054
+    100060: BoneHeadLower
+    100062: BoneHeadUpper
+    100064: BoneLeftArmUpper
+    100066: BoneLeftBall
+    100068: BoneLeftHand
+    100070: BoneLeftHandLong
+    100072: BoneLeftIronJoint1
+    100074: BoneLeftIronJoint2
+    100076: BoneLeftLeg
+    100078: BoneLeftShoulder
+    100080: BoneLowerChest
+    100082: BoneNeck1
+    100084: BoneNeck2
+    100086: BoneRightArmLong
+    100088: BoneRightArmUpper
+    100090: BoneRightHand
+    100092: BoneRightHandIronJoint1
+    100094: BoneRightHandIronJoint2
+    100096: BoneRightLeg
+    100098: BoneRightShoulder
+    100100: BoneUpperChest
+    100102: Box009
+    100104: Chest
+    100106: connectBone001
+    100108: connectBone002
+    100110: connectBone003
+    100112: connectBone004
+    100114: connectBone005
+    100116: connectBone006
+    100118: connectBone007
+    100120: connectBone008
+    100122: connectBone009
+    100124: connectBone010
+    100126: connectBone011
+    100128: connectBone012
+    100130: connectBone013
+    100132: connectBone027
+    100134: connectBone028
+    100136: Cylinder100
+    100138: Cylinder101
+    100140: Cylinder102
+    100142: Cylinder103
+    100144: Cylinder104
+    100146: Cylinder105
+    100148: Cylinder106
+    100150: Cylinder107
+    100152: Head
+    100154: LeftArmBallJoint
+    100156: LeftArmHand
+    100158: LeftArmIron
+    100160: LeftArmIronNivel1
+    100162: LeftArmIronNivel2
+    100164: LeftArmLeg
+    100166: LeftArmMeatPiece
+    100168: LeftArmSecondLast
+    100170: LeftArmUpperLong
+    100172: LeftShoulder
+    100174: LowerChest
+    100176: //RootNode
+    100178: Neck
+    100180: NeckCollar
+    100182: Pyramid001
+    100184: Pyramid002
+    100186: Pyramid003
+    100188: Pyramid004
+    100190: Pyramid005
+    100192: Pyramid006
+    100194: Pyramid007
+    100196: Pyramid008
+    100198: Pyramid009
+    100200: Pyramid010
+    100202: Pyramid011
+    100204: Pyramid012
+    100206: Pyramid013
+    100208: Pyramid014
+    100210: Pyramid015
+    100212: Pyramid016
+    100214: RightArmHand
+    100216: RightArmIron
+    100218: RightArmIronNivel2
+    100220: RightArmLeg
+    100222: RightArmSecondLast
+    100224: RightArmUpperLong
+    100226: Spinning
+    100228: Tube005
+    100230: Tube047
+    100232: Tube048
+    100234: Waist
+    400000: Bone002
+    400002: Bone003
+    400004: Bone006
+    400006: Bone007
+    400008: Bone008
+    400010: Bone009
+    400012: Bone011
+    400014: Bone023
+    400016: Bone025
+    400018: Bone026
+    400020: Bone034
+    400022: Bone035
+    400024: Bone036
+    400026: Bone037
+    400028: Bone038
+    400030: Bone039
+    400032: Bone040
+    400034: Bone041
+    400036: Bone042
+    400038: Bone043
+    400040: Bone044
+    400042: Bone045
+    400044: Bone046
+    400046: Bone047
+    400048: Bone048
+    400050: Bone049
+    400052: Bone051
+    400054: Bone052
+    400056: Bone053
+    400058: Bone054
+    400060: BoneHeadLower
+    400062: BoneHeadUpper
+    400064: BoneLeftArmUpper
+    400066: BoneLeftBall
+    400068: BoneLeftHand
+    400070: BoneLeftHandLong
+    400072: BoneLeftIronJoint1
+    400074: BoneLeftIronJoint2
+    400076: BoneLeftLeg
+    400078: BoneLeftShoulder
+    400080: BoneLowerChest
+    400082: BoneNeck1
+    400084: BoneNeck2
+    400086: BoneRightArmLong
+    400088: BoneRightArmUpper
+    400090: BoneRightHand
+    400092: BoneRightHandIronJoint1
+    400094: BoneRightHandIronJoint2
+    400096: BoneRightLeg
+    400098: BoneRightShoulder
+    400100: BoneUpperChest
+    400102: Box009
+    400104: Chest
+    400106: connectBone001
+    400108: connectBone002
+    400110: connectBone003
+    400112: connectBone004
+    400114: connectBone005
+    400116: connectBone006
+    400118: connectBone007
+    400120: connectBone008
+    400122: connectBone009
+    400124: connectBone010
+    400126: connectBone011
+    400128: connectBone012
+    400130: connectBone013
+    400132: connectBone027
+    400134: connectBone028
+    400136: Cylinder100
+    400138: Cylinder101
+    400140: Cylinder102
+    400142: Cylinder103
+    400144: Cylinder104
+    400146: Cylinder105
+    400148: Cylinder106
+    400150: Cylinder107
+    400152: Head
+    400154: LeftArmBallJoint
+    400156: LeftArmHand
+    400158: LeftArmIron
+    400160: LeftArmIronNivel1
+    400162: LeftArmIronNivel2
+    400164: LeftArmLeg
+    400166: LeftArmMeatPiece
+    400168: LeftArmSecondLast
+    400170: LeftArmUpperLong
+    400172: LeftShoulder
+    400174: LowerChest
+    400176: //RootNode
+    400178: Neck
+    400180: NeckCollar
+    400182: Pyramid001
+    400184: Pyramid002
+    400186: Pyramid003
+    400188: Pyramid004
+    400190: Pyramid005
+    400192: Pyramid006
+    400194: Pyramid007
+    400196: Pyramid008
+    400198: Pyramid009
+    400200: Pyramid010
+    400202: Pyramid011
+    400204: Pyramid012
+    400206: Pyramid013
+    400208: Pyramid014
+    400210: Pyramid015
+    400212: Pyramid016
+    400214: RightArmHand
+    400216: RightArmIron
+    400218: RightArmIronNivel2
+    400220: RightArmLeg
+    400222: RightArmSecondLast
+    400224: RightArmUpperLong
+    400226: Spinning
+    400228: Tube005
+    400230: Tube047
+    400232: Tube048
+    400234: Waist
+    2300000: Tube005
+    3300000: Tube005
+    4300000: Chest
+    4300002: LowerChest
+    4300004: NeckCollar
+    4300006: RightArmIron
+    4300008: LeftArmIron
+    4300010: LeftArmMeatPiece
+    4300012: LeftArmIronNivel1
+    4300014: Waist
+    4300016: Tube005
+    4300018: LeftShoulder
+    4300020: LeftArmBallJoint
+    4300022: LeftArmUpperLong
+    4300024: LeftArmLeg
+    4300026: LeftArmSecondLast
+    4300028: LeftArmIronNivel2
+    4300030: Spinning
+    4300032: RightArmUpperLong
+    4300034: RightArmLeg
+    4300036: RightArmIronNivel2
+    4300038: RightArmSecondLast
+    4300040: RightArmHand
+    4300042: Neck
+    4300044: LeftArmHand
+    4300046: Head
+    4300048: Pyramid001
+    4300050: Pyramid002
+    4300052: Pyramid003
+    4300054: Pyramid004
+    4300056: Pyramid005
+    4300058: Pyramid006
+    4300060: Pyramid007
+    4300062: Pyramid008
+    4300064: Pyramid009
+    4300066: Pyramid010
+    4300068: Pyramid011
+    4300070: Pyramid012
+    4300072: Pyramid013
+    4300074: Pyramid014
+    4300076: Pyramid015
+    4300078: Pyramid016
+    4300080: Cylinder100
+    4300082: Box009
+    4300084: Cylinder101
+    4300086: Cylinder102
+    4300088: Cylinder103
+    4300090: Cylinder104
+    4300092: Cylinder105
+    4300094: Cylinder106
+    4300096: Cylinder107
+    4300098: Tube047
+    4300100: Tube048
+    7400000: StandStill
+    7400002: Awakening1
+    7400004: Idle1
+    7400006: Awakening2
+    7400008: Idle2
+    9500000: //RootNode
+    13700000: Box009
+    13700002: Chest
+    13700004: Cylinder100
+    13700006: Cylinder101
+    13700008: Cylinder102
+    13700010: Cylinder103
+    13700012: Cylinder104
+    13700014: Cylinder105
+    13700016: Cylinder106
+    13700018: Cylinder107
+    13700020: Head
+    13700022: LeftArmBallJoint
+    13700024: LeftArmHand
+    13700026: LeftArmIron
+    13700028: LeftArmIronNivel1
+    13700030: LeftArmIronNivel2
+    13700032: LeftArmLeg
+    13700034: LeftArmMeatPiece
+    13700036: LeftArmSecondLast
+    13700038: LeftArmUpperLong
+    13700040: LeftShoulder
+    13700042: LowerChest
+    13700044: Neck
+    13700046: NeckCollar
+    13700048: Pyramid001
+    13700050: Pyramid002
+    13700052: Pyramid003
+    13700054: Pyramid004
+    13700056: Pyramid005
+    13700058: Pyramid006
+    13700060: Pyramid007
+    13700062: Pyramid008
+    13700064: Pyramid009
+    13700066: Pyramid010
+    13700068: Pyramid011
+    13700070: Pyramid012
+    13700072: Pyramid013
+    13700074: Pyramid014
+    13700076: Pyramid015
+    13700078: Pyramid016
+    13700080: RightArmHand
+    13700082: RightArmIron
+    13700084: RightArmIronNivel2
+    13700086: RightArmLeg
+    13700088: RightArmSecondLast
+    13700090: RightArmUpperLong
+    13700092: Spinning
+    13700094: Tube047
+    13700096: Tube048
+    13700098: Waist
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: StandStill
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone009/BoneUpperChest
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006/Bone007
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper/Bone002
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper/Bone002/Bone003
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006/Bone048
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006/Bone048/Bone049
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007/Bone053
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007/Bone053/Bone054
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008/Bone051
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008/Bone051/Bone052
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005/Bone046
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005/Bone046/Bone047
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037/Bone038
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040/Bone041
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040/Bone041/Bone042
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043/Bone044
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004/Bone035
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004/Bone035/Bone036
+        weight: 1
+      - path: Bone009/connectBone011
+        weight: 1
+      - path: Bone009/connectBone011/BoneLowerChest
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Cylinder100
+        weight: 1
+      - path: Cylinder101
+        weight: 1
+      - path: Cylinder102
+        weight: 1
+      - path: Cylinder103
+        weight: 1
+      - path: Cylinder104
+        weight: 1
+      - path: Cylinder105
+        weight: 1
+      - path: Cylinder106
+        weight: 1
+      - path: Cylinder107
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: LeftArmBallJoint
+        weight: 1
+      - path: LeftArmHand
+        weight: 1
+      - path: LeftArmIron
+        weight: 1
+      - path: LeftArmIronNivel1
+        weight: 1
+      - path: LeftArmIronNivel2
+        weight: 1
+      - path: LeftArmLeg
+        weight: 1
+      - path: LeftArmMeatPiece
+        weight: 1
+      - path: LeftArmSecondLast
+        weight: 1
+      - path: LeftArmUpperLong
+        weight: 1
+      - path: LeftShoulder
+        weight: 1
+      - path: LowerChest
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: NeckCollar
+        weight: 1
+      - path: Pyramid001
+        weight: 1
+      - path: Pyramid002
+        weight: 1
+      - path: Pyramid003
+        weight: 1
+      - path: Pyramid004
+        weight: 1
+      - path: Pyramid005
+        weight: 1
+      - path: Pyramid006
+        weight: 1
+      - path: Pyramid007
+        weight: 1
+      - path: Pyramid008
+        weight: 1
+      - path: Pyramid009
+        weight: 1
+      - path: Pyramid010
+        weight: 1
+      - path: Pyramid011
+        weight: 1
+      - path: Pyramid012
+        weight: 1
+      - path: Pyramid013
+        weight: 1
+      - path: Pyramid014
+        weight: 1
+      - path: Pyramid015
+        weight: 1
+      - path: Pyramid016
+        weight: 1
+      - path: RightArmHand
+        weight: 1
+      - path: RightArmIron
+        weight: 1
+      - path: RightArmIronNivel2
+        weight: 1
+      - path: RightArmLeg
+        weight: 1
+      - path: RightArmSecondLast
+        weight: 1
+      - path: RightArmUpperLong
+        weight: 1
+      - path: Spinning
+        weight: 1
+      - path: Tube005
+        weight: 1
+      - path: Tube047
+        weight: 1
+      - path: Tube048
+        weight: 1
+      - path: Waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Awakening1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone009/BoneUpperChest
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006/Bone007
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper/Bone002
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper/Bone002/Bone003
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006/Bone048
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006/Bone048/Bone049
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007/Bone053
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007/Bone053/Bone054
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008/Bone051
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008/Bone051/Bone052
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005/Bone046
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005/Bone046/Bone047
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037/Bone038
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040/Bone041
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040/Bone041/Bone042
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043/Bone044
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004/Bone035
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004/Bone035/Bone036
+        weight: 1
+      - path: Bone009/connectBone011
+        weight: 1
+      - path: Bone009/connectBone011/BoneLowerChest
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Cylinder100
+        weight: 1
+      - path: Cylinder101
+        weight: 1
+      - path: Cylinder102
+        weight: 1
+      - path: Cylinder103
+        weight: 1
+      - path: Cylinder104
+        weight: 1
+      - path: Cylinder105
+        weight: 1
+      - path: Cylinder106
+        weight: 1
+      - path: Cylinder107
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: LeftArmBallJoint
+        weight: 1
+      - path: LeftArmHand
+        weight: 1
+      - path: LeftArmIron
+        weight: 1
+      - path: LeftArmIronNivel1
+        weight: 1
+      - path: LeftArmIronNivel2
+        weight: 1
+      - path: LeftArmLeg
+        weight: 1
+      - path: LeftArmMeatPiece
+        weight: 1
+      - path: LeftArmSecondLast
+        weight: 1
+      - path: LeftArmUpperLong
+        weight: 1
+      - path: LeftShoulder
+        weight: 1
+      - path: LowerChest
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: NeckCollar
+        weight: 1
+      - path: Pyramid001
+        weight: 1
+      - path: Pyramid002
+        weight: 1
+      - path: Pyramid003
+        weight: 1
+      - path: Pyramid004
+        weight: 1
+      - path: Pyramid005
+        weight: 1
+      - path: Pyramid006
+        weight: 1
+      - path: Pyramid007
+        weight: 1
+      - path: Pyramid008
+        weight: 1
+      - path: Pyramid009
+        weight: 1
+      - path: Pyramid010
+        weight: 1
+      - path: Pyramid011
+        weight: 1
+      - path: Pyramid012
+        weight: 1
+      - path: Pyramid013
+        weight: 1
+      - path: Pyramid014
+        weight: 1
+      - path: Pyramid015
+        weight: 1
+      - path: Pyramid016
+        weight: 1
+      - path: RightArmHand
+        weight: 1
+      - path: RightArmIron
+        weight: 1
+      - path: RightArmIronNivel2
+        weight: 1
+      - path: RightArmLeg
+        weight: 1
+      - path: RightArmSecondLast
+        weight: 1
+      - path: RightArmUpperLong
+        weight: 1
+      - path: Spinning
+        weight: 1
+      - path: Tube005
+        weight: 1
+      - path: Tube047
+        weight: 1
+      - path: Tube048
+        weight: 1
+      - path: Waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle1
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone009/BoneUpperChest
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006/Bone007
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper/Bone002
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper/Bone002/Bone003
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006/Bone048
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006/Bone048/Bone049
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007/Bone053
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007/Bone053/Bone054
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008/Bone051
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008/Bone051/Bone052
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005/Bone046
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005/Bone046/Bone047
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037/Bone038
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040/Bone041
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040/Bone041/Bone042
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043/Bone044
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004/Bone035
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004/Bone035/Bone036
+        weight: 1
+      - path: Bone009/connectBone011
+        weight: 1
+      - path: Bone009/connectBone011/BoneLowerChest
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Cylinder100
+        weight: 1
+      - path: Cylinder101
+        weight: 1
+      - path: Cylinder102
+        weight: 1
+      - path: Cylinder103
+        weight: 1
+      - path: Cylinder104
+        weight: 1
+      - path: Cylinder105
+        weight: 1
+      - path: Cylinder106
+        weight: 1
+      - path: Cylinder107
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: LeftArmBallJoint
+        weight: 1
+      - path: LeftArmHand
+        weight: 1
+      - path: LeftArmIron
+        weight: 1
+      - path: LeftArmIronNivel1
+        weight: 1
+      - path: LeftArmIronNivel2
+        weight: 1
+      - path: LeftArmLeg
+        weight: 1
+      - path: LeftArmMeatPiece
+        weight: 1
+      - path: LeftArmSecondLast
+        weight: 1
+      - path: LeftArmUpperLong
+        weight: 1
+      - path: LeftShoulder
+        weight: 1
+      - path: LowerChest
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: NeckCollar
+        weight: 1
+      - path: Pyramid001
+        weight: 1
+      - path: Pyramid002
+        weight: 1
+      - path: Pyramid003
+        weight: 1
+      - path: Pyramid004
+        weight: 1
+      - path: Pyramid005
+        weight: 1
+      - path: Pyramid006
+        weight: 1
+      - path: Pyramid007
+        weight: 1
+      - path: Pyramid008
+        weight: 1
+      - path: Pyramid009
+        weight: 1
+      - path: Pyramid010
+        weight: 1
+      - path: Pyramid011
+        weight: 1
+      - path: Pyramid012
+        weight: 1
+      - path: Pyramid013
+        weight: 1
+      - path: Pyramid014
+        weight: 1
+      - path: Pyramid015
+        weight: 1
+      - path: Pyramid016
+        weight: 1
+      - path: RightArmHand
+        weight: 1
+      - path: RightArmIron
+        weight: 1
+      - path: RightArmIronNivel2
+        weight: 1
+      - path: RightArmLeg
+        weight: 1
+      - path: RightArmSecondLast
+        weight: 1
+      - path: RightArmUpperLong
+        weight: 1
+      - path: Spinning
+        weight: 1
+      - path: Tube005
+        weight: 1
+      - path: Tube047
+        weight: 1
+      - path: Tube048
+        weight: 1
+      - path: Waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Awakening2
+      takeName: Take 001
+      firstFrame: 65
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone009/BoneUpperChest
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006/Bone007
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper/Bone002
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper/Bone002/Bone003
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006/Bone048
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006/Bone048/Bone049
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007/Bone053
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007/Bone053/Bone054
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008/Bone051
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008/Bone051/Bone052
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005/Bone046
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005/Bone046/Bone047
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037/Bone038
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040/Bone041
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040/Bone041/Bone042
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043/Bone044
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004/Bone035
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004/Bone035/Bone036
+        weight: 1
+      - path: Bone009/connectBone011
+        weight: 1
+      - path: Bone009/connectBone011/BoneLowerChest
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Cylinder100
+        weight: 1
+      - path: Cylinder101
+        weight: 1
+      - path: Cylinder102
+        weight: 1
+      - path: Cylinder103
+        weight: 1
+      - path: Cylinder104
+        weight: 1
+      - path: Cylinder105
+        weight: 1
+      - path: Cylinder106
+        weight: 1
+      - path: Cylinder107
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: LeftArmBallJoint
+        weight: 1
+      - path: LeftArmHand
+        weight: 1
+      - path: LeftArmIron
+        weight: 1
+      - path: LeftArmIronNivel1
+        weight: 1
+      - path: LeftArmIronNivel2
+        weight: 1
+      - path: LeftArmLeg
+        weight: 1
+      - path: LeftArmMeatPiece
+        weight: 1
+      - path: LeftArmSecondLast
+        weight: 1
+      - path: LeftArmUpperLong
+        weight: 1
+      - path: LeftShoulder
+        weight: 1
+      - path: LowerChest
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: NeckCollar
+        weight: 1
+      - path: Pyramid001
+        weight: 1
+      - path: Pyramid002
+        weight: 1
+      - path: Pyramid003
+        weight: 1
+      - path: Pyramid004
+        weight: 1
+      - path: Pyramid005
+        weight: 1
+      - path: Pyramid006
+        weight: 1
+      - path: Pyramid007
+        weight: 1
+      - path: Pyramid008
+        weight: 1
+      - path: Pyramid009
+        weight: 1
+      - path: Pyramid010
+        weight: 1
+      - path: Pyramid011
+        weight: 1
+      - path: Pyramid012
+        weight: 1
+      - path: Pyramid013
+        weight: 1
+      - path: Pyramid014
+        weight: 1
+      - path: Pyramid015
+        weight: 1
+      - path: Pyramid016
+        weight: 1
+      - path: RightArmHand
+        weight: 1
+      - path: RightArmIron
+        weight: 1
+      - path: RightArmIronNivel2
+        weight: 1
+      - path: RightArmLeg
+        weight: 1
+      - path: RightArmSecondLast
+        weight: 1
+      - path: RightArmUpperLong
+        weight: 1
+      - path: Spinning
+        weight: 1
+      - path: Tube005
+        weight: 1
+      - path: Tube047
+        weight: 1
+      - path: Tube048
+        weight: 1
+      - path: Waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle2
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone009/BoneUpperChest
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006/Bone007
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone027/BoneHeadLower/Bone006/Bone007/Bone008
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper/Bone002
+        weight: 1
+      - path: Bone009/BoneUpperChest/Bone011/BoneNeck1/BoneNeck2/connectBone028/BoneHeadUpper/Bone002/Bone003
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006/Bone048
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone006/Bone048/Bone049
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007/Bone053
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone007/Bone053/Bone054
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008/Bone051
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/Bone026/connectBone008/Bone051/Bone052
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005/Bone046
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone009/BoneLeftShoulder/BoneLeftBall/BoneLeftArmUpper/BoneLeftIronJoint1/BoneLeftLeg/connectBone012/BoneLeftIronJoint2/BoneLeftHandLong/Bone023/BoneLeftHand/Bone025/connectBone005/Bone046/Bone047
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037/Bone038
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone001/Bone037/Bone038/Bone039
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040/Bone041
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone002/Bone040/Bone041/Bone042
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043/Bone044
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/Bone034/connectBone003/Bone043/Bone044/Bone045
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004/Bone035
+        weight: 1
+      - path: Bone009/BoneUpperChest/connectBone010/BoneRightShoulder/BoneRightArmUpper/BoneRightHandIronJoint1/BoneRightLeg/connectBone013/BoneRightHandIronJoint2/BoneRightArmLong/BoneRightHand/connectBone004/Bone035/Bone036
+        weight: 1
+      - path: Bone009/connectBone011
+        weight: 1
+      - path: Bone009/connectBone011/BoneLowerChest
+        weight: 1
+      - path: Box009
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Cylinder100
+        weight: 1
+      - path: Cylinder101
+        weight: 1
+      - path: Cylinder102
+        weight: 1
+      - path: Cylinder103
+        weight: 1
+      - path: Cylinder104
+        weight: 1
+      - path: Cylinder105
+        weight: 1
+      - path: Cylinder106
+        weight: 1
+      - path: Cylinder107
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: LeftArmBallJoint
+        weight: 1
+      - path: LeftArmHand
+        weight: 1
+      - path: LeftArmIron
+        weight: 1
+      - path: LeftArmIronNivel1
+        weight: 1
+      - path: LeftArmIronNivel2
+        weight: 1
+      - path: LeftArmLeg
+        weight: 1
+      - path: LeftArmMeatPiece
+        weight: 1
+      - path: LeftArmSecondLast
+        weight: 1
+      - path: LeftArmUpperLong
+        weight: 1
+      - path: LeftShoulder
+        weight: 1
+      - path: LowerChest
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: NeckCollar
+        weight: 1
+      - path: Pyramid001
+        weight: 1
+      - path: Pyramid002
+        weight: 1
+      - path: Pyramid003
+        weight: 1
+      - path: Pyramid004
+        weight: 1
+      - path: Pyramid005
+        weight: 1
+      - path: Pyramid006
+        weight: 1
+      - path: Pyramid007
+        weight: 1
+      - path: Pyramid008
+        weight: 1
+      - path: Pyramid009
+        weight: 1
+      - path: Pyramid010
+        weight: 1
+      - path: Pyramid011
+        weight: 1
+      - path: Pyramid012
+        weight: 1
+      - path: Pyramid013
+        weight: 1
+      - path: Pyramid014
+        weight: 1
+      - path: Pyramid015
+        weight: 1
+      - path: Pyramid016
+        weight: 1
+      - path: RightArmHand
+        weight: 1
+      - path: RightArmIron
+        weight: 1
+      - path: RightArmIronNivel2
+        weight: 1
+      - path: RightArmLeg
+        weight: 1
+      - path: RightArmSecondLast
+        weight: 1
+      - path: RightArmUpperLong
+        weight: 1
+      - path: Spinning
+        weight: 1
+      - path: Tube005
+        weight: 1
+      - path: Tube047
+        weight: 1
+      - path: Tube048
+        weight: 1
+      - path: Waist
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
